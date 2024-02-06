@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Logo from '../../images/2023-09-10.jpg';
+import Logo from '../../images/dighub.png';
 
 function SigninPage (){
 

@@ -6,7 +6,7 @@ function  Aside (){
       
         <aside className="bg-slate-900 fixed text-white top-0 left-0 z-40 w-48 h-screen transition-transform ">
 
-<div className= " font-serif text-blue-500 font-extrabold text-xl ml-3 mt-3">S.S Engineering</div>
+<div className= " font-serif text-blue-500 font-extrabold text-xl ml-3 mt-3">Dighub</div>
 
 <div className="mt-20">
 <ul className="font-mono ">
